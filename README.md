@@ -4,8 +4,8 @@
 
 ---
 
-- 🌱 I’m currently learning **Python & Data Analytics**[cite: 1]
-- 🎓 Studying **Computer Science for Digital Enterprises** (Pegaso University, graduating Oct-Nov 2026)[cite: 1]
+- 🌱 I’m currently learning **Python & Data Analytics**
+- 🎓 Studying **Computer Science for Digital Enterprises** (Pegaso University, graduating Oct-Nov 2026)
 - 💻 All of my projects are available at [github.com/anitapersico](https://github.com/anitapersico)
 
 ### Connect with me:
